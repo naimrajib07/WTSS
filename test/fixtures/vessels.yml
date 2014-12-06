@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  vessel_id: MyString
+  registration_date: 2014-12-07
+  fitness_status: MyText
+  is_fit: false
+  maximum_capacity_people: 1
+  maximum_capacity_weight: 1.5
+  fitness_expire_date: 2014-12-07
+
+two:
+  name: MyString
+  vessel_id: MyString
+  registration_date: 2014-12-07
+  fitness_status: MyText
+  is_fit: false
+  maximum_capacity_people: 1
+  maximum_capacity_weight: 1.5
+  fitness_expire_date: 2014-12-07

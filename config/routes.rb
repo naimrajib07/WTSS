@@ -1,4 +1,7 @@
 WTSS::Application.routes.draw do
+  devise_for :admin_users, ActiveAdmin::Devise.config
+  ActiveAdmin.routes(self)
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -44,7 +47,7 @@ WTSS::Application.routes.draw do
   #     # Directs /admin/products/* to Admin::ProductsController
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
-  #   end
+  #   e
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
