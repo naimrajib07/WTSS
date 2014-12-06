@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3734915491">
+    <data-source source="LOCAL" name="Rails WTSS: development" uuid="19c7016e-13f3-4640-9983-e8b195d51534">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/wtss_development</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfc3dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails WTSS: test" uuid="7b6843f3-dea8-4272-8411-0ad67e4d67ca">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/test-mysql2_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfc3dfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails WTSS: production" uuid="d6937f82-3fc3-4996-9113-538ce2b73474">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/wtss_production</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfc4dfcbdfc3dfc7</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
